@@ -1,2 +1,2 @@
 # War Simulator Script.
-This a part for the actual script to work.
+The Lua script is a part for another script to work
