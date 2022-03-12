@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknown5629/War-Simulator-Script/main/Main%20War%20Simulator%20Script.lua", true))()
