@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet(("https://github.com/Unknown5629/War-Simulator-Script/blob/main/War%20Simulator%20Script%20Part.lua")))()
+local library = loadstring(game:HttpGet(("https://raw.githubusercontent.com/Unknown5629/War-Simulator-Script/main/War%20Simulator%20Script%20Part.lua")))()
 local w = library:CreateWindow("War Simulator")
 local b = w:CreateFolder("AutoFarm")
 local e = w:CreateFolder("Mix")
