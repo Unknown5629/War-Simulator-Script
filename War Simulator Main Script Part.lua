@@ -6,7 +6,7 @@ local u = w:CreateFolder("Credits")
 local Worlds = "WorldWar1"
 
 b:Toggle(
-    "Auto-Melee ",
+    "Auto-Melee",
     function(bool)
         shared.toggle = bool
         AutoMelee = bool
