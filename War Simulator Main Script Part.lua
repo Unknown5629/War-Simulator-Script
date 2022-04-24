@@ -23,7 +23,7 @@ b:Toggle(
 
 b:Dropdown(
     "World",
-    {"Tribal", "Medieval", "Colonial", "WorldWar1", "OilWars", "WorldWar2", "Modern", "Future", "Western", "Ancient"},
+    {"Tribal", "Ancient", "Medieval", "Colonial", "Western", "WorldWar1", "WorldWar2" "Vietnam", "OilWars", "Modern", "Future"},
     true,
     function(World)
         Worlds = World
@@ -39,16 +39,16 @@ e:Toggle(
 )
 
 u:Button(
-    "Quantum#1000",
+    "Quantum#3246",
     function()
-        setclipboard("Quantum#1000")
+        setclipboard("Quantum#3246")
     end
 )
 
 u:Button(
     "Discord Server",
     function()
-        setclipboard("https://discord.gg/nDRcR9rtCK")
+        setclipboard("https://discord.gg/cHjMtNRxSn")
     end
 )
 
